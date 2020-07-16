@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/l0HlMmCTZsADKuIWQ" width="345" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/zombie-late-night-trolling-l0HlMmCTZsADKuIWQ">via GIPHY</a></p>
 
 <!--
 **NickSolante/NickSolante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
